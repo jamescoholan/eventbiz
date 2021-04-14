@@ -104,7 +104,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("/Users/jamescoholan/Desktop/Production Code/EventBiz/src/assets/images/Citizen Saturday’s (1).png")}
+                src={require("./../../assets/images/Citizen Saturday’s (1).png")}
                 alt="Hero"
                 width={896}
                 height={504}

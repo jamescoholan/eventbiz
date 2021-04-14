@@ -82,7 +82,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/EventBiz/src/assets/images/Citizen Saturday’s (2).png")}
+                  src={require("./../../assets/images/Citizen Saturday’s (2).png")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -115,7 +115,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/EventBiz/src/assets/images/Citizen Saturday’s (5).png")}
+                  src={require("./../../assets/images/Citizen Saturday’s (5).png")}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -147,7 +147,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("/Users/jamescoholan/Desktop/Production Code/EventBiz/src/assets/images/Citizen Saturday’s (4).png")}
+                  src={require("./../../assets/images/Citizen Saturday’s (4).png")}
                   alt="Features split 03"
                   width={528}
                   height={396}

@@ -38,7 +38,11 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
             <div className="footer-copyright">
-              Made by <a href="">Dan & James</a>. All right reserved
+              Made by{" "}
+              <a href="https://www.youtube.com/watch?v=_-t20GBnE8Q">
+                Dan & James
+              </a>
+              . All right reserved
             </div>
           </div>
         </div>
